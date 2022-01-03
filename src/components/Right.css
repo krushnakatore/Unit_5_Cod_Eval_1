@@ -1,0 +1,8 @@
+.right {
+  flex: 3;
+  /* border: 1px solid black; */
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
