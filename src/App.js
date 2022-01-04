@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <Left />
       <Center />
-      <Right />
+      {/* <Right /> */}
     </div>
   );
 }
